@@ -1,0 +1,6 @@
+EsFinDeSemana,ClimaLluvioso,DiaFestivo,EventoEspecial,UbicacionCentrica,FlujoClientesAlto,TendenciaHistoricaAlta,StockInicial_Bajo,TipoProducto_Pan,TipoProducto_Pasteleria,TipoProducto_Sandwich,TipoProducto_Bebida,Recomendacion,Razonamiento
+0,0,1,0,0,0,0,0,0,1,1,1,Baja,Regla C: Clima adverso o tendencia baja
+0,0,0,0,1,0,1,1,1,1,0,0,Media,Regla B: Stock bajo sin alta demanda
+1,0,0,1,0,0,1,0,0,0,0,1,Alta,Regla A: Demanda combinada (día especial + flujo/tendencia alta)
+1,0,1,0,1,1,0,0,1,1,0,1,Alta,Regla A: Demanda combinada (día especial + flujo/tendencia alta)
+0,0,1,1,1,1,0,1,0,1,0,1,Alta,Regla A: Demanda combinada (día especial + flujo/tendencia alta)
