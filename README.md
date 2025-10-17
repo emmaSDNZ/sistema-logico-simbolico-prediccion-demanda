@@ -110,3 +110,4 @@ La siguiente etapa contempla la integración de modelos **predictivos basados en
 * Marcus, G. (2022). *The Next Decade in AI: Hybrid Models and Symbolic Reasoning.*
 * European Commission
 # sistema-logico-simbolico-prediccion-demanda
+# sistema-logico-simbolico-prediccion-demanda
