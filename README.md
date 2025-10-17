@@ -4,12 +4,19 @@
 ### Proyecto Integrador — Ciencia de Datos e Inteligencia Artificial
 
 **Autores:** 
+
 Martin, Mauro Leonel
+
 Isaias Emanuel Sudañez
+
 Enrico Munighinim Antonella Stefania
+
 Marovich, Mikael Davor
+
 Villaruel,Tomas Adrian
+
 Barrera Randazzo, Tomas Valentin
+
 
 **Docente:** Charletti, Calor 
 
